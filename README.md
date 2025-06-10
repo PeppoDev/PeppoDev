@@ -29,9 +29,7 @@ I am Ruan Barros, aka Peppa/Peppoderosa, currently pursuing my bachelor's degree
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 
-<!-- github actions -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Peppoderosa&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peppoderosa&hide=TeX&layout=compact)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Peppoderosa)
 
